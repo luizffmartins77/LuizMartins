@@ -53,6 +53,14 @@ Collection of technical articles, user manuals, and
 business requirement documents in English and Portuguese.
 `Technical Writing` `Bilingual` `BRD` `Manuals`
 
+## Confidentiality Policy
+
+All client work is treated as strictly confidential.
+Portfolio projects are built on fictional scenarios —
+no real client data, internal documents, or proprietary
+processes are ever shared or published.
+
+
 ---
 
 ## Let's Work Together
