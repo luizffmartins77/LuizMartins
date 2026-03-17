@@ -26,7 +26,7 @@ instead of systems.
 | Process Mapping & Modeling | BPMN 2.0, AS-IS/TO-BE Analysis, BPMN Tools |
 | Process Documentation | SOPs, Work Instructions, BRDs, Technical Manuals |
 | Workflow Automation | AI-assisted automation |
-| Data & Reporting | Python, Excel (advanced), Google Sheets, Power BI |
+| Data & Reporting | Python, Excel (advanced), Google Locker Studio, Sheets, Power BI |
 | Technical Writing | Process guides, operational playbooks (EN/PT) |
 
 ---
