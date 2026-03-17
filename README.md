@@ -55,7 +55,7 @@ business requirement documents in English and Portuguese.
 
 ## Confidentiality Policy
 
-All client work is treated as strictly confidential.
+⚠️ All client work is treated as strictly confidential.
 Portfolio projects are built on fictional scenarios —
 no real client data, internal documents, or proprietary
 processes are ever shared or published.
