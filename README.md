@@ -6,10 +6,10 @@ by mapping, documenting, and automating their core processes —
 turning chaotic workflows into structured, scalable operations.
 
 **Who I work with:** Logistics companies, e-commerce operations,
-and service businesses that are growing faster than their processes.
+and service businesses that are growing faster than their processes can support.
 
 **What I solve:** Undocumented workflows, inefficient manual processes,
-missing SOPs, and operations that depend entirely on people's memory
+missing SOPs and operations that depend entirely on people's memory
 instead of systems.
 
 ---
@@ -34,12 +34,11 @@ instead of systems.
 ## Featured Projects
 
 ### 🔷 [Logistics Receiving Process — BPMN Documentation]
-Full AS-IS/TO-BE process mapping for a logistics receiving operation,
-including gap analysis and optimized SOP.
+Mapped AS-IS logistics receiving process, identified gaps and improvement opportunities, performed gap analysis, and developed a structured and optimized SOP for logistics receiving operations.
 `BPMN` `Process Optimization` `SOP` `Logistics`
 
 ### 🔷 [E-commerce Operations SOP Library]
-A structured library of 5 SOPs covering fulfillment, returns,
+Built a structured library of 5 SOPs covering fulfillment, returns,
 inventory control, and customer complaint handling.
 `SOPs` `E-commerce` `Operations` `Documentation`
 
@@ -57,7 +56,7 @@ business requirement documents in English and Portuguese.
 
 ⚠️ All client work is treated as strictly confidential.
 Portfolio projects are built on fictional scenarios —
-no real client data, internal documents, or proprietary
+No real client data, internal documents, or proprietary
 processes are ever shared or published.
 
 
